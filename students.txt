@@ -1,0 +1,9 @@
+stu_name,stu_age,stu_class,stu_location,stu_gender
+vijay,23,12,madurai,male
+suganya,23,12,virudhunagar,female
+ramkumar,23,12,chennai,male
+sivashankari,24,12,chennai,female
+sathish,24,12,dubai,male
+agaci,24,12,erode,male
+selvi,22,12,chennai,female
+prasanth,18,12,madurai,male
